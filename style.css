@@ -174,13 +174,14 @@ footer {
             display: flex;
             list-style: none;
             justify-content: center;
-            gap: 50px;
+            gap: 30px;
             text-decoration: underline;
             cursor: pointer;
             border-top: 2px solid #00005F;
             background-color: #00005F;
             color: white;
             padding: 5px;
+            font-size: 90%;
         }
     }
 }
